@@ -1,0 +1,33 @@
+{
+  "name": "makeplays",
+  "authors": [
+    "subin <petersn@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-switch": "https://github.com/nostalgiaz/bootstrap-switch.git#~3.3.2",
+    "bootstrap": "~3.3.5",
+    "echarts": "https://github.com/ecomfe/echarts.git#~2.2.7",
+    "font-awesome": "fontawesome#~4.4.0",
+    "semantic-ui-popup": "~2.1.4",
+    "semantic-ui-transition": "https://github.com/Semantic-Org/UI-Transition.git#~2.1.4",
+    "underscore": "~1.8.3",
+    "vue": "https://github.com/vuejs/vue.git#~1.0.8",
+    "Chart.js": "https://github.com/nnnick/Chart.js.git#~1.0.2",
+    "semantic-ui-loader": "~2.1.6",
+    "d3": "https://github.com/mbostock/d3.git#~3.5.9",
+    "smalot-bootstrap-datetimepicker": "git://github.com/smalot/bootstrap-datetimepicker.git#~2.3.5",
+    "jstree": "https://github.com/vakata/jstree.git#~3.2.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "semantic-ui-transition",
+  "description": "Transition - Semantic UI",
+  "homepage": "http://www.semantic-ui.com",
+  "author": {
+    "name": "Jack Lukic",
+    "web": "http://www.jacklukic.com"
+  },
+  "ignore": [
+    "docs",
+    "node",
+    "server",
+    "spec",
+    "src",
+    "test"
+  ],
+  "keywords": [
+    "semantic",
+    "ui",
+    "css3",
+    "framework"
+  ],
+  "license": [
+    "http://semantic-ui.mit-license.org/"
+  ],
+  "main": [
+    "transition.css"
+  ],
+  "version": "2.1.4",
+  "_release": "2.1.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.4",
+    "commit": "3d397a9193ea43b35ada058e96c3aacebc352ab4"
+  },
+  "_source": "https://github.com/Semantic-Org/UI-Transition.git",
+  "_target": "~2.1.4",
+  "_originalSource": "https://github.com/Semantic-Org/UI-Transition.git",
+  "_direct": true
+}
